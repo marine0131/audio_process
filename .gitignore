@@ -1,0 +1,9 @@
+*.py[co~]
+*.so
+*.pb
+
+*.mp3
+*.log
+
+model
+
