@@ -10,7 +10,7 @@ import cPickle
 
 # An array of all the files containing data and an array of the labels for each file
 labels = ["negative", "negative","negative", "negative", "negative",
-        "positive", "positive", "positive", "positive", "positive", "positive"]
+        "positive", "positive", "positive", "positive", "positive", "positive", "positive"]
 sub1 = ["/opt/audio_process/audioAnalysis/feature_data/neg_20180424.log",
         "/opt/audio_process/audioAnalysis/feature_data/neg_20180425.log",
         "/opt/audio_process/audioAnalysis/feature_data/neg_20180427.log",
@@ -26,6 +26,7 @@ sub1 = ["/opt/audio_process/audioAnalysis/feature_data/neg_20180424.log",
         "/opt/audio_process/audioAnalysis/feature_data/pos_20180620.log",
         "/opt/audio_process/audioAnalysis/feature_data/pos_20180621.log",
         "/opt/audio_process/audioAnalysis/feature_data/pos_20180807.log",
+        "/opt/audio_process/audioAnalysis/feature_data/pos_20180814.log",
         "/opt/audio_process/audioAnalysis/feature_data/pos/pos_0319.log"]
 
 
